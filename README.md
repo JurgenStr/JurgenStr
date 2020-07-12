@@ -1,7 +1,9 @@
 ### Greetings! 👋😊
 
-Hello there! Just discovered this feature from a tweet, this will be very useful to give brief introduction to your profile page!
-🥝🥝🥝🥝🥝
+Hello there! Just discovered this feature from a tweet, this will be very useful to give brief introduction to your profile page!  
+
+- 💻 Kaggle   : https://www.kaggle.com/joebats55
+- 💻 LinkedIn : https://www.linkedin.com/in/juanbatara/  
 <!--
 **JurgenStr/JurgenStr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
