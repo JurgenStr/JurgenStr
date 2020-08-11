@@ -1,6 +1,6 @@
 ### Greetings! 👋😊
 
-Hello there! Just discovered this feature from a tweet, this will be very useful to give brief introduction to your profile page!  
+Hello there! I'm Juandito Batara, currently improving myself on Data Science and Flutter Mobile Development!
 
 - 💻 Kaggle   : https://www.kaggle.com/joebats55
 - 💻 LinkedIn : https://www.linkedin.com/in/juanbatara/  
